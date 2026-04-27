@@ -1,0 +1,16 @@
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\config\SecurityConfig.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\config\SeedDataConfig.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\controller\ActivityController.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\controller\AuthController.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\controller\RegistrationController.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\controller\UserController.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\model\Activity.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\model\Registration.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\model\User.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\repository\ActivityRepository.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\repository\RegistrationRepository.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\repository\UserRepository.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\service\ActivityService.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\service\RegistrationService.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\service\UserService.java
+C:\Users\adity\project 3\backend\src\main\java\com\example\studentactivity\StudentActivityApplication.java
